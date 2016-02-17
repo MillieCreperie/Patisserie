@@ -1,0 +1,39 @@
+body
+{
+	margin: 1.5em auto;
+	max-width: 60em;
+	line-height: 1.6;
+	color: #444;
+	padding: 0 1em;
+	font-size: 2em;
+}
+
+html
+{
+	font-family: 'Poiret One';
+	background-color: #EEE;
+}
+
+h1, h2, h3
+{
+	line-height: 1.2;
+	font-family: 'lobster';
+}
+
+#logo
+{
+	height: 10em;
+}
+
+svg, iframe, h1, h2, h3, div, a
+{
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+iframe
+{
+	border-style: solid;
+	border-color: gray;
+}
