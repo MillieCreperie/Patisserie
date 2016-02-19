@@ -36,4 +36,12 @@ iframe
 {
 	border-style: solid;
 	border-color: gray;
+	width: 20em;
+	height: 15em;
+}
+
+#insta
+{
+	width: 24.68em;
+	height: 24.6em;
 }
